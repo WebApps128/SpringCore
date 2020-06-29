@@ -5,7 +5,7 @@
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
    <!-- Dependent bean configuration -->
-
+   <!-- Dependent bean configuration -->
     <bean id="dt" class="java.util.Date"/>  
     
   <!-- Target Bean Configuration -->
