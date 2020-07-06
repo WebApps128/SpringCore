@@ -6,7 +6,7 @@ public class WishMessageGenerater {
    
 	private Date date;
 	 
-	//setter method for date 
+	//setter method for date //seter method Injection
 	public void setDate(Date date) {
 		this.date=date;
 	}
