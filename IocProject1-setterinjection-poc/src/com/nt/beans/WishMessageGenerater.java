@@ -15,7 +15,7 @@ public class WishMessageGenerater {
 	   int houre=0;
 	   
 	   //Get current houre of the date
-	   houre=date.getHours();
+	   houre=date.getHours(); 
 		
 	   if(houre<12) {
 		
