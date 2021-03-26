@@ -13,7 +13,8 @@ public class Instance_Test {
 		
 	try {	
 		c1 =Class.forName(args[0]);
-		
+	    
+		 System.out.println("sampad ");
 		obj=c1.newInstance();
 		
 		System.out.println("----------------Date Class Object---------------------------");
